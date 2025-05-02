@@ -34,7 +34,7 @@ Este proyecto es una aplicación web desarrollada con **Flask** que permite visu
 
  - https://marketing-ia-z.onrender.com/
 
-🛠 Tecnologías usadas
+# 🛠 Tecnologías usadas
  - Python
 
   - Flask
@@ -45,7 +45,7 @@ Este proyecto es una aplicación web desarrollada con **Flask** que permite visu
 
  - Render (para despliegue)
 
-📊 Funcionalidades
+# 📊 Funcionalidades
  - Lectura de un archivo CSV con datos de ventas.
 
  - Visualización simple en el navegador web.
