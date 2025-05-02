@@ -1,3 +1,4 @@
+👨‍💻 ZarcoVM - Angel Zarco
 # 🧾 Marketing APP
 
 Este proyecto es una aplicación web desarrollada con **Flask** que permite visualizar datos de ventas desde un archivo CSV.
@@ -33,4 +34,21 @@ Este proyecto es una aplicación web desarrollada con **Flask** que permite visu
 
  - https://marketing-ia-z.onrender.com/
 
+🛠 Tecnologías usadas
+ - Python
+
+  - Flask
+
+ - HTML (Jinja2 Templates)
+
+ - CSV para lectura de datos
+
+ - Render (para despliegue)
+
+📊 Funcionalidades
+ - Lectura de un archivo CSV con datos de ventas.
+
+ - Visualización simple en el navegador web.
+
+ - Preparado para despliegue en plataformas como Render.
 
