@@ -45,6 +45,7 @@ Este proyecto es una aplicación web desarrollada con **Flask** que permite visu
 
  - Render (para despliegue)
 
+
 # 📊 Funcionalidades
  - Lectura de un archivo CSV con datos de ventas.
 
